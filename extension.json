@@ -1,0 +1,7 @@
+{
+  "name": "Elisp",
+  "version": "0.0.1",
+  "authors": ["Joseph Lyons <JosephTLyons@gmail.com>"],
+  "description": "Elisp language support for Zed",
+  "repository": "https://github.com/JosephTLyons/zed-elisp"
+}
