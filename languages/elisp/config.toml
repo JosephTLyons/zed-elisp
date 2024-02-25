@@ -1,7 +1,7 @@
 name = "Elisp"
 grammar = "elisp"
 path_suffixes = ["el"]
-line_comments = ["# "]
+line_comments = ["; "]
 autoclose_before = ";:.,=}])>` \n\t\""
 brackets = [
     { start = "[", end = "]", close = true, newline = true },
