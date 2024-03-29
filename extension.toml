@@ -6,6 +6,6 @@ schema_version = 1
 authors = ["Joseph Lyons <JosephTLyons@gmail.com>"]
 repository = "https://github.com/JosephTLyons/zed-elisp"
 
-[grammars.toml]
+[grammars.elisp]
 repository = "https://github.com/Wilfred/tree-sitter-elisp"
 commit = "e5524fdccf8c22fc726474a910e4ade976dfc7bb"
