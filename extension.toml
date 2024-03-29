@@ -1,7 +1,11 @@
 id = "elisp"
 name = "Elisp"
+description = "Elisp language support for Zed"
 version = "0.0.3"
 schema_version = 1
 authors = ["Joseph Lyons <JosephTLyons@gmail.com>"]
-description = "Elisp language support for Zed"
 repository = "https://github.com/JosephTLyons/zed-elisp"
+
+[grammars.toml]
+repository = "https://github.com/Wilfred/tree-sitter-elisp"
+commit = "e5524fdccf8c22fc726474a910e4ade976dfc7bb"
