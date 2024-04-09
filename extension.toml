@@ -1,7 +1,7 @@
 id = "elisp"
 name = "Elisp"
 description = "Elisp language support for Zed"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
 authors = ["Joseph Lyons <JosephTLyons@gmail.com>"]
 repository = "https://github.com/JosephTLyons/zed-elisp"
