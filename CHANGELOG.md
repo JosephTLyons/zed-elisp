@@ -1,5 +1,9 @@
 # CHANGELOG
 
+v0.0.5
+
+- Added outline queries (`defun`, `defsubst`, `defmacro`).
+
 v0.0.4
 
 - Added default `tab_size = 2`.
